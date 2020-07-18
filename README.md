@@ -8,6 +8,7 @@
     - 接下来下载yarn (https://classic.yarnpkg.com/en/docs/install/#windows-stable) ，一个资源管理器
     - 然后执行 ***$ yarn add uuid***
     - 最后安装Material-UI: ***$ yarn add @material-ui/core @material-ui/icons***
+    - 执行 ***$ npm install*** 来安装初始化模块
     - 通过 ***$ npm start*** 来启动项目
 
 - 用户注册和登录系统 Login_Register_Sytem 相关使用说明:
